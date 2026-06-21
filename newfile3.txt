@@ -1,1 +1,2 @@
 This is newfile3.txt
+New line added in GitHub as part of new training
