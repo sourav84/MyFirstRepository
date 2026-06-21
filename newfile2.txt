@@ -1,1 +1,2 @@
 This is newfile2.txt
+New line added in local repo as part of new training
